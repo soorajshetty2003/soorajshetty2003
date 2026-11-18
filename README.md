@@ -5,7 +5,7 @@ I am currently pursuing my **M.Tech**, focusing on **Artificial Intelligence, Ma
 - 🔭 **Currently working on:** SQL/DBMS fundamentals, Data Structures & Algorithms, and end-to-end AI/ML projects.
 - 📚 **Research Interests:** Artificial Intelligence, Machine Learning, Deep Learning
 - 🎯 **Career Goals:** Software/Data Engineering Placements & Academic Research (Aspiring Professor)
-- 📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/soorajshetty12052023)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/soorajshetty12052023)
 
 ---
 
