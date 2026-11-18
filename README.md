@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Sooraj Shetty 👋
 
-<!--
-**soorajshetty2003/soorajshetty2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing my **M.Tech**, focusing on **Artificial Intelligence, Machine Learning, and Database Systems**. I am passionate about bridging academic research with practical software engineering.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** SQL/DBMS fundamentals, Data Structures & Algorithms, and end-to-end AI/ML projects.
+- 📚 **Research Interests:** Artificial Intelligence, Machine Learning, Deep Learning
+- 🎯 **Career Goals:** Software/Data Engineering Placements & Academic Research (Aspiring Professor)
+- 📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/soorajshetty12052023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL
+- **Data & ML:** Pandas, NumPy, PyTorch / TensorFlow
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Jupyter Notebook
